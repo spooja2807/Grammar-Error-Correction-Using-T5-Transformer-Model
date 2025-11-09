@@ -24,4 +24,4 @@
 ---
 ## Gradio Interface
 
-![Grammar Correction Interface](images/interface_screenshot.png)
+![Grammar Correction Interface](interface_screenshot.jpg)
