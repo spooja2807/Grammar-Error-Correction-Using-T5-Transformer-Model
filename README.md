@@ -22,6 +22,4 @@
 - **Google Colab** – Training and experimentation environment  
 
 ---
-## Gradio Interface
-
 ![Grammar Correction Interface](interface_screenshot.jpg)
