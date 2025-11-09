@@ -1,4 +1,4 @@
-# Grammar Error Correction Using T5 Transformer Model
+# Grammatical Error Correction Using T5 Transformer Model
 
 ##  Features
 
